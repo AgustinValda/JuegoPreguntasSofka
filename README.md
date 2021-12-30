@@ -12,10 +12,11 @@ Se requiere una serie de pasos simples para su ejecución
 En primera instancia será bajar ambos archivos presentes aquí
 
 1-Crear una base de datos con nombre juego_preguntas
+  Conectar la base de datos en el IDE, para poder usarla desde allí,mantener la conexión activa
 
 2-Ingresar al archivo de persistence.xml presente en la carpeta META-INF en Source Packages
 
-3-En este archivo debera buscar la base creada en la sección de JDBC Connection, 
+3-En este archivo debera buscar la base creada en la sección de JDBC Connection,  guardar los cambios
 
    al realizar esto ya podra usarse la base de datos
    
