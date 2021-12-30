@@ -5,6 +5,8 @@ La base de datos utilizada es MySQL
 Se utilizo JPA para realizar la persistencia de datos, por lo que se debera contar con el driver correspondiente
 En mi caso he utilizado: MySQL JDBC Driver -mysql-connector-java-5.1.48.jar
 
+El juego se ejecuta por consola por lo que será necesario abrir el proyecto en el IDE. 
+
 Se requiere una serie de pasos simples para su ejecución
 
 En primera instancia será bajar ambos archivos presentes aquí
