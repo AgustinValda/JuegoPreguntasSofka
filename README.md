@@ -20,7 +20,7 @@ En primera instancia será bajar ambos archivos presentes aquí
 
    al realizar esto ya podra usarse la base de datos
    
-4-Ejecutar el archivo main cuyo nombre es: CreacionBaseDeDatos.java
+4-Ejecutar el archivo main cuyo nombre es: CreacionBaseDeDatos.java ubicado en el paquete de nombre juegodepreguntas
 
    esto se debe realizar para que JPA configure las tablas en la base de datos, JPA realiza el trabajo.
    
